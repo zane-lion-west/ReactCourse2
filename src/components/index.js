@@ -1,3 +1,3 @@
-import Hello from './Hello/Hello';
+import JokeComponent from './JokeComponent/JokeComponent';
 
-export { Hello };
+export { JokeComponent };
